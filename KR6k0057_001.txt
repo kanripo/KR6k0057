@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:43:25.812982
+#+DATE: 2015-08-30 20:43:26.720902
 #+TITLE: 佛說目連所問經
 #+PROPERTY: CBETA_ID T24n1468
 #+PROPERTY: ID KR6k0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1468
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0057_T_000-0911b>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0057_T_001-0911b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1468¶
-
- 《佛說目連所問經》¶
+No. 1468¶
+《佛說目連所問經》¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 傳教大師臣法天奉　詔譯¶
